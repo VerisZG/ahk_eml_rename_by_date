@@ -1,7 +1,7 @@
 ﻿; (c) 2020-06-20 by Zbigniew Gralewski zbigniew.gralewski (at) bitback.pl
 ;
 ; Quick info:
-; Script massively renames eml files, for example from "foo.eml" into "2020-01-01_101002__foo.eml" usin the format RRRR-MM-DD_HH_MM_SS__originalname.eml.
+; Script massively renames eml files, for example from "foo.eml" into "2020-01-01_101002__foo.eml" using the format RRRR-MM-DD_HH_MM_SS__originalname.eml.
 ;
 ;
 ; ATTENTION!
